@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "mongo-model",
+  "version": "0.0.0",
+  "description": "Module abstracting Mongo for model data",
+  "main": "koa-mongo-model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/screenrev/koa-mongo-model"
+  },
+  "author": "glen@screenrev.com",
+  "license": "GNU v2",
+  "bugs": {
+    "url": "https://github.com/screenrev/koa-mongo-model/issues"
+  },
+  "homepage": "https://github.com/screenrev/koa-mongo-model",
+  "dependencies": {
+    "bluebird": "^2.2.2"
+  }
+}

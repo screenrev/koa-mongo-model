@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/screenrev/koa-mongo-model",
   "dependencies": {
-    "bluebird": "^2.2.2",
-    "koa-mongo-db": "git://github.com/screenrev/koa-mongo-db"
+    "bluebird": "2.2.2",
+    "koa-mongo-db": "git://github.com/screenrev/koa-mongo-db#v0.1.0"
   }
 }

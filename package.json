@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "koa-mongo-model",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Module abstracting Mongo for model data",
   "main": "koa-mongo-model.js",
   "scripts": {

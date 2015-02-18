@@ -87,7 +87,7 @@ Model.prototype.list = function(where, options) {
 	.skip(options.skip)
 	.limit(options.limit);
 
-	return Promise.promisify(cursor.toArray)();
+	return Promise.promisify(cursor.toArray, cursor)();
 };
 
 
